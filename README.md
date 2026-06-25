@@ -9,7 +9,7 @@ Inspiration-flow is designed to gather inspirations, let them collide and intera
 1、丛语义空间的空白处，发现新创意：
 Uncover original creativity from the gaps in the semantic space
 
-<img width="1002" height="590" alt="image" src="https://github.com/user-attachments/assets/5b1c9432-2bf9-4512-a914-91cc060f17ef" />
+<img width="922" height="536" alt="image" src="https://github.com/user-attachments/assets/5b1c9432-2bf9-4512-a914-91cc060f17ef" />
 
 2、维纳说：“​​未来的科学(应用)突破往往诞生于学科(行业)的交叉处。​​”，inspiration-flow支持在创意交汇处，发现交叉科学：
 
@@ -21,7 +21,7 @@ Norbert Wiener once stated: "Future scientific (applied) breakthroughs are often
 
 Probe the frontiers of knowledge: within the semantic space, by examining idea clusters and knowledge clusters, we can explore the boundaries of knowledge and discover uncharted territories
 
-<img width="1004" height="582" alt="image" src="https://github.com/user-attachments/assets/1a9199e9-c497-4198-8057-1db79686bfb6" />
+<img width="922" height="536" alt="image" src="https://github.com/user-attachments/assets/1a9199e9-c497-4198-8057-1db79686bfb6" />
 
 ---
 
